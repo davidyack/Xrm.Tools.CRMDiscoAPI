@@ -19,7 +19,7 @@ class CallDisco {
     
         api.Get(null,"org3c268c23").then(function(result){console.log(result)});
 
-        api.Get('d5a98156-2184-41aa-8bd7-df3b5394fd12',null).then(function(result){console.log(result)});
+        api.Get('d5a9da56-2184-41aa-8bd7-df3b5394fd12',null).then(function(result){console.log(result)});
         
         return 0;
     }
