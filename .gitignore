@@ -1,3 +1,14 @@
+# dotnet
+dotnet/packages
+dotnet/Xrm.Tools.CRMDiscoAPITest/Obj
+dotnet/Xrm.Tools.CRMDiscoAPITest/Bin
+dotnet/Xrm.Tools.CRMDiscoAPI/Obj
+dotnet/Xrm.Tools.CRMDiscoAPI/Bin
+dotnet/Xrm.Tools.CRMDiscoAPINuGet/Obj
+dotnet/Xrm.Tools.CRMDiscoAPINuGet/Bin
+dotnet/*.suo
+
+
 # Logs
 logs
 *.log

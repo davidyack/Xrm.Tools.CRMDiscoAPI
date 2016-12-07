@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xrm.Tools.CRMDiscoAPI</id>
+    <version>1.0.11</version>
+    <title>Xrm.Tools.CRMWDiscoAPI</title>
+    <authors>DavidYack</authors>
+    <owners></owners>
+    <description>
+      This is an API helper for working with Dynamics 365 Global Discovery API
+
+    </description>
+    <releaseNotes>
+      1.0.0 Initial release
+
+    </releaseNotes>
+    <summary>
+      This is an API helper for working with Dynamics 365 Global Discovery API
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/davidyack/Xrm.Tools.CRMDiscoAPI</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/davidyack/Xrm.Tools.CRMDiscoAPI/blob/master/LICENSE</licenseUrl>
+    <copyright>Copyright  2016</copyright>
+    <dependencies>
+      <group targetFramework="net40">
+        <dependency id="Newtonsoft.Json" version="8.0.2" />
+        <dependency id="Microsoft.AspNet.WebApi.Client" version="5.2.3" />
+      </group>
+     
+    </dependencies>
+    <references></references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="..\Xrm.Tools.CRMDiscoAPI\bin\debug\Xrm.Tools.CRMDiscoAPI.dll" target="lib\net46" />
+    
+  </files>
+</package>
